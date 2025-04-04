@@ -1,7 +1,7 @@
 # EUR/USD Live Dashboard Project
 
 ## Introduction
-This project was created as part of a coursework assignment at ESILV. The objective was to develop a complete data pipeline that scrapes live financial data, stores it, and displays it on a professional-looking dashboard accessible via a public URL.
+The objective of this project is to develop a complete data pipeline that scrapes live financial data, stores it, and displays it on a professional-looking dashboard accessible via a public URL.
 
 We decided to focus on the EUR/USD exchange rate, using a custom Python script and deploying the entire project on an AWS EC2 instance.
 
