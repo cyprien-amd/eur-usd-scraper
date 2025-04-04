@@ -80,8 +80,6 @@ http://<YOUR_PUBLIC_IP>:8050
   - Return (percentage)
   - Observation count
 
-## Author Info
-Created by Cyprien Amadieu Carl Aitkaci (IF1) at ESILV as part of the Python / Git / Linux project.
 
 ## Future Improvements
 - Add more currency pairs (e.g., USD/GBP, USD/JPY)
